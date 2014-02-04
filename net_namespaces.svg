@@ -14,7 +14,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.4 r9939"
-   sodipodi:docname="New document 1">
+   sodipodi:docname="net_namespaces.svg"
+   inkscape:export-filename="/home/amarao/drawing/net_namespaces.png"
+   inkscape:export-xdpi="63.839966"
+   inkscape:export-ydpi="63.839966">
   <defs
      id="defs4">
     <inkscape:perspective
@@ -32,9 +35,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2.0049726"
-     inkscape:cx="510.23141"
-     inkscape:cy="178.59763"
+     inkscape:zoom="1.0024863"
+     inkscape:cx="491.05658"
+     inkscape:cy="340.11763"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -323,9 +326,10 @@
        inkscape:connection-end-point="d4" />
     <path
        style="fill:#008e4d;fill-opacity:0.182266;stroke:#0076db;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       d="m -603.44074,-308.95437 c 123.75752,-14.74465 220.06645,92.4149 264.57659,196.5663 24.50789,75.906879 86.3867,141.255446 77.35325,225.18948 3.88134,85.53561 -91.6741,183.98989 -170.8597,113.64762 -102.12281,-90.33063 -178.56756,-213.959821 -208.50657,-347.49596 -7.84109,-62.11843 -28.17471,-149.11258 37.43643,-187.90744 z"
+       d="m -593.46554,-322.91965 c 123.75752,-14.74465 170.19046,95.40746 214.7006,199.55886 42.54313,97.351443 -100.31605,258.1332 -200.24108,177.238882 -51.2493,-46.4397552 -21.95694,-55.3541612 -51.89595,-188.890302 -7.84109,-62.11843 -28.17471,-149.11258 37.43643,-187.90744 z"
        id="path3902"
-       inkscape:connector-curvature="0" />
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="ccccc" />
     <path
        style="fill:#3291cd;fill-opacity:0.182266;stroke:#217e00;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m -394.6674,-513.43785 c 44.12832,63.83626 13.51527,149.76875 53.14673,211.13743 62.87837,55.37299 156.19153,44.55195 226.5632,87.52967 73.172303,31.2121 116.3611703,111.1037 199.737632,122.167971 71.518698,19.437206 174.290298,18.540266 184.473938,-77.144341 11.69878,-121.25557 -17.67743,-255.95084 -108.24549,-342.06608 -90.289588,-62.81647 -205.319271,-33.14756 -307.93766,-40.16051 -73.48331,0.10316 -146.97724,0.18857 -220.44464,-1.56576 -15.55163,6.92637 -26.88201,22.94309 -27.29371,40.10162 z"
